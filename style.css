@@ -1,0 +1,10 @@
+.textnav {
+    text-shadow: 2px 2px 5px black;
+}
+.textcontent {
+    text-shadow: 2px 2px 5px black;
+}
+.img {
+    height: 200px;
+    width: 300px;
+}
