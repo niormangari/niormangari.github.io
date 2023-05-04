@@ -1,0 +1,41 @@
+.myBG {
+  background: url("../assets/images/bg/pika.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+.op {
+  background: url("../assets/images/bg/bgpica.jpg");
+  height: auto;
+  background-size: cover;
+}
+.tensura {
+  background: url("../assets/images/bg/bgpica.jpg");
+  height: auto;
+  background-size: cover;
+}
+
+.intro {
+  flex-direction: column;
+}
+.title {
+  text-shadow: 2px 2px 5px black;
+}
+.title1 {
+  text-shadow: 2px 2px 5px white;
+}
+.textnav {
+  text-shadow: 2px 2px 5px black;
+}
+.textOp {
+  text-shadow: 2px 2px 5px white;
+}
+.textTensura {
+  text-shadow: 2px 2px 5px black;
+}
+.images {
+  height: 250px;
+}
+.footer {
+  text-decoration: none;
+  text-shadow: 2px 2px 5px black;
+}
